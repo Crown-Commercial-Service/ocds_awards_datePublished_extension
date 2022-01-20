@@ -1,0 +1,17 @@
+{
+  "definitions": {
+    "Award": {
+      "properties": {
+        "datePublished": {
+          "title": "Date published",
+          "description": "The date that the award was published.",
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        }
+      }
+    }
+  }
+}

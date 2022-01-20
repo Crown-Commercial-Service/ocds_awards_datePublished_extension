@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Awards date published"
+  },
+  "description": {
+    "en": "Allows the date that an awards object was first published to be included in later releases."
+  },
+  "documentationUrl": {
+    "en": "https://extensions.open-contracting.org/en/extensions/awards_datePublished/master/"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}
