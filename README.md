@@ -8,8 +8,10 @@ Used by Contracts Finder.
 
 ```json
 {
-  "awards": {
-    "datePublished": "2022-01-25T08:10:03Z"
-  }
+  "awards": [
+    {
+      "datePublished": "2022-01-25T08:10:03Z"
+    }
+  ]
 }
 ```
